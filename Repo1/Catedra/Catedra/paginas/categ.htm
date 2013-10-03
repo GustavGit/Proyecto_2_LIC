@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Excelents ocnic for life S.A de S.V</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="../css/estilo.css" rel="stylesheet" type="text/css">
+        <script src="../scripts/busqueda3.js" type="text/javascript"></script>
+	</head>
+	<body>
+    <table align="center" id="supermain">
+    	<tr>
+        <td>
+        <header>
+            <nav>
+            	<table align="center">
+                	<tr>
+                    	<td id="indexmejorado"><img src="../img/logo.png" id="logox" height="150" width="270"></td>
+                        <td><img id="slid1" src="../img/bnnr.gif"></td>
+                        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                        <td><form name="searcher" onSubmit="return buscar()" autocomplete="off">
+                    	<input type="text" name="txtB" max="35" min="3">
+                         <label for="selopciones">Filtrar por Caracteristica: </label>
+        <select name="selopciones" onchange="cambioopcion(this.options[this.selectedIndex].value)">
+	            <option value="smartphone">Smart phone</option>
+	            <option value="laptop">Laptop</option>
+	            <option value="transparente">Transparente</option>
+                <option value="consola">Consola</option>
+                <option value="tablet">Tablet</option>
+	         </select>
+                    	<input type="submit" name="boton" value="Buscar"></form></td>
+                    </tr>
+                </table>
+                <table align="center">
+                <tr>
+                <td>
+	            <ul id="menuu">
+                	<li><a href="../index.html">Inicio</a></li>
+                    <li><a href="../paginas/categ.html">Categorias</a>
+                    	<ul>
+                        	<li><a href="../paginas/smaFo.html">SmartPhones</a></li>
+                            <li><a href="../paginas/table.html">Tablets</a></li>
+                            <li><a href="../paginas/pcs.html">Ordenadores</a></li>
+							<li><a href="../paginas/games.html">Consolas</a></li>
+                    	</ul>
+                    </li>
+                    <li><a href="../paginas/proms.html">Promociones</a></li>
+                    <li><a href="../paginas/us.html">Contactos</a></li>
+                </ul>
+                </td>
+                </tr>
+                </table>
+            </nav>
+            <br/>
+        </header>
+        <section>
+            <p>Est&aacute; viendo los productos m&aacute;s populares en Gadget Online Sales!</p>
+            <hr align="center" color="#DDDDDD" size="1" />
+            <table align="center">
+            	<tr>
+                	<td id="proms"><img id="mages" src="../img/cels/c1.jpg"><br>
+                    	<br>SmartPhones | Celulares
+                        <br>Tel&eacute;fonos celulares de &uacute;ltima generaci&oacute;n
+                        <br><p id="bb"><a href="../paginas/smaFo.html">Ver</a></p>
+                    </td>
+                    <td id="proms"><img id="mages" src="../img/tablets/t6.jpg"><br>
+                    	<br>Tablets
+                        <br>Dispositivos interactivos
+                        <br><p id="bb"><a href="../paginas/table.html">Ver</a>
+                    </td>
+                    <td id="proms"><img id="mages" src="../img/ord/o1.jpg"><br>
+                    	<br>Ordenadores | Computadoras | PC
+                        <br>Ordenadores portatiles y desktops
+                        <br><p id="bb"><a href="../paginas/pcs.html">Ver</a>
+                    </td>
+                </tr>
+                <tr>
+                	<td id="proms"><div id="mages"></div></td>
+                	<td id="proms"><img id="mages" src="../img/cons/n7.png"><br>
+                    	<br>Cosolas | Videojuegos | Juegos
+                        <br>Plataformas de entretenimiento.
+                        <br><p id="bb"><a href="../paginas/games.html">Ver</a>
+                    </td>
+                    <td id="proms"><div id="mages"></div></td>
+                </tr>
+            </table>
+        </section>
+        <footer>
+        	<hr align="center" color="#999999" size="1" />
+            <p>&copy; OCNIC EXCELENS&trade; | Todos los derechos reservados | Lenguaje Interpretado al cliente</p>
+            <p><a href="contacto.html">Contactenos</a> | <a href="politics.html">Pol&iacute;tica del sitio</a> | <a href="us.html">Nosotros</a> | <a href="help.html">Ayuda</a></p>
+        </footer>
+        </td>
+        </tr>
+    </table>
+</body>
+</html>

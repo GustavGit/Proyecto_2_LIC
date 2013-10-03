@@ -1,0 +1,243 @@
+TABLETS
+
+1- HP Slate 7
+Dimensiones: 197.1 x 116.1 x 10.7 mm
+Peso: 372 g
+Tamaño: 600 x 1024 pixels, 7.0 pulgadas
+Soporte multitouch
+Sensor acelerómetro para auto rotación
+microSD, hasta 32GB
+8GB memoria interna, 1GB RAM
+Procesador Cortex-A9 dual-core 1.6GHz
+OS: Android OS, v4.1 Jelly Bean
+Mensajería: SMS, MMS, Email, Push Email, IM, RSS
+Navegador: HTML5
+Juegos: Si + descargables
+Colores: Negro/Plateado, Rojo
+Cámara: 3.15 MP, 2048x1536 pixels, video 720p@30fps, cámara secundaria VGA
+Wi-Fi 802.11 b/g/n, DLNA
+Bluetooth v2.1 A2DP, EDR
+microUSB 2.0
+Integración con redes sociales
+Reproductor de video MP4/DivX/Xvid/H.264/H.263/WMV 
+Reproductor de audio MP3/WAV/eAAC+/OGG/WMA/AC3 
+Organizador
+Editor de documentos
+Integración Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa 
+Ingreso predictivo de texto
+
+2 -Lenovo A3000
+Red 3G: HSDPA (optional)
+Tipo: IPS LCD capacitive touchscreen, 16M colors
+Tamaño: 600 x 1024 pixels, 7.0 inches (~170 ppi pixel density)
+Multitouch: Yes
+Altoparlante: stereo speakers
+16/32 GB, 1 GB RAM
+Ranura para tarjeta microSD, up to 32 GB
+WLAN: Wi-Fi 802.11 b/g/n, Wi-Fi hotspot
+Bluetooth:  v4.0
+USB: microUSB v2.0, USB On-the-go
+Cámara: 5 MP, 2592?1936 pixels, autofocus
+SO: Android OS, v4.1 (Jelly Bean)
+Sensores Accelerometer
+Mensajería: Email, Push Email, IM
+Chipset: MTK 8389/8125
+CPU: Quad-core 1.2 GHz Cortex-A7
+Navegador: HTML
+Colores: Black, White
+GPS: Soporte A-GPS 
+Dimensiones: 194 x 120 x 11 mm (7.64 x 4.72 x 0.43 in)
+Peso: 339 g (11.96 oz)
+
+3- ZTE V98
+Pantalla de 10 pulgadas con resolución de 1366x768 píxeles y tecnolofía TFT.
+CPU: Intel Atom Z2760 de doble núcleo y con frecuencia a 1.8 GHz.
+Memoria RAM: 2 GB LPDDR2 a 800 MHz.
+Capacidad de almacenamiento interno de 64 GB.
+Cámara frontal de 2 MP.
+Cámara trasera de 8 MP con Flash LED que puede grabar vídeo a 1080p (FullHD).
+Conectividad vía WiFi, Bluetooth y GPS integrado.
+LTE 4G.
+Chip NFC.
+Batería de 7.000 mAh.
+
+4-Lenovo S6000
+Dimensiones: 260x 180x 8,6 mm
+Peso: 560 g
+SO: Android 4.2 Jelly BeanTamaño pantalla: 10,1 "
+Táctil: Sí
+Tecnología: IPS LCD
+Resolución: 1.280x 800 píxeles
+SO: Windows 8
+Chipset: MTK 8389/8125
+Procesador: 4 Núcleo/s a 1,2 GHz Cortex-A7
+Memoria RAM: 1 GB
+Memoria interna: 32 GB
+Slot para tarjeta de memoria: Hasta 64 GB Tipo MicroSD
+Cámara: 5 mp Resolución 2.592x 1.936 píxeles
+Bluetooth: Version 4
+WiFi: 802.11 b/g/n Wi-Fi hotspot
+GPS: A-GPSUSB: Sí MicroUSB v2.0, USB On-the-goColor: Black
+Sensores Acelerómetro 
+Brújula
+Navegado HTML
+Mensajería: eMail, Mensajería instantánea, Push eMail
+Integración con redes sociales 
+Organizador 
+Visor de documentos 
+Visor y editor de fotos
+Texto predictivo
+
+5-Sony Xperia Z
+Peso: 146 gramos5,15 onzas
+Dimensiones: 139 x 71 x 7,9 mm, 5,47 x 2,79 x 0,31 pulgadas
+Batería:Tiempo de conversación (máx.): hasta 11 horas, Tiempo en espera (máx.): hasta 550 horas 
+Pantalla:TFT de 5 pulgadas,16 millones de colores y 1920 x 1080 píxeles
+SO: Google Android 4.2 (Jelly Bean)
+Procesador de cuatro núcleos Qualcomm APQ8064+MDM9215M de 1,5 GHz
+Cámara:	Cámara Exmor RS de 13 megapíxeles con enfoque automático y flash, Cámara frontal Exmor R de 2.2 megapíxeles (1080p)
+Durability: IPX5/7 (resistente al agua) e IP5X (resistente al polvo)
+
+6-Samsung Galaxy Note 8.0
+Red: HSDPA 850 / 900 / 1900 / 2100
+Dimensiones: 210.8 X 135.9mm
+Peso: 338 g
+Tipo: TFT touchscreen capacitivo, 16M colores
+Tamaño: 720 x 1280 pixels, 5.5 pulgadas
+Soporte multitouch
+Interfaz de usuario TouchWiz
+Sensor acelerómetro para auto rotación
+Controles sensibles al tacto
+Sensor de proximidad para auto apagado
+Sensor giroscópico
+Slot de tarjeta: microSD hasta 64GB
+16GB/32GB memoria interna, 2GB RAM
+Procesador Cortex-A9 quad-core 1.6 GHz
+GPRS: Si
+OS: Android OS, v4.1.2 Jelly Bean
+Mensajería: SMS, MMS, Email, Push Mail, IM
+Navegador: HTML5
+Cámara: 5 MP, 2592?1944 pixels, autofocus, flash LED, geo-tagging, video 1080p@30fps, cámara secundaria 1.3MP
+GPS con soporte A-GPS + GLONASS
+Brújula digital
+Stylus S Pen
+EDGE
+3G HSDPA 21Mbps / HSUPA 5.76Mbps (versión 3G)
+AllShareCast
+Wi-Fi 802.11 a/b/g/n; DLNA; Wi-Fi Direct; banda dual
+Bluetooth v4.0 LE
+microUSB 2.0
+Integración con redes sociales
+Reproductor de video MP4/DivX/XviD/WMV/H.264/H.263 
+Reproductor de audio MP3/WAV/eAAC+/AC3/FLAC 
+Organizador
+Editor de imagen/video
+Editor de documentos (Word, Excel, PowerPoint, PDF)
+Integración Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 4600 mAh
+
+7-Razer Edge Pro
+Altura: 0.8 pulgadas
+Ancho: 11 pulgadas
+Profundidad: 7 pulgadas
+Peso: 2.1 libras
+Procesador: Intel® Core™ i7 3a generación de 1.9GHz
+Tipo de batería: Batería de iones de litio, de 4 celdas
+Tipo de pantalla: Pantalla táctil LCD (1366 x 768)
+Tamaño de la pantalla (medida en diagonal): 10.1"
+Memoria de sistema (RAM): 8GB DDR3
+Tipo de almacenamiento interno: SSD
+Capacidad de almacenamiento: 128GB
+Gráficos: NVIDIA GeForce GT 640M LE
+Adobe Flash
+Píxeles de la cámara web frontal: 2.0MP
+Wi-Fi incorporado
+Con capacidad Bluetooth
+Bocinas Internos
+Puertos USB 2.0, 1 USB 3.0
+Pantalla táctil: Sí
+S.0: Windows 8
+Capacidad de la unidad: 128GB
+
+
+8-Samsung Galaxy Tab 2
+Banda EDGE y GSM de 850 / 900 / 1.800 / 1.900 MHz
+Banda 3G de 850 / 900 / 1.900 / 2.100 MHz
+HSPA+ 21 Mbps / HSUPA 5,76 Mbps
+SO: Android 4.0 (Ice Cream Sandwich)
+Navegador Android
+Dimensiones de 7,6" x 4,8" x 0,4"
+Peso de 344 g
+Cámara posterior de 3 MP / Cámara delantera VGA
+Modo de toma: Simple / Sonrisa / Panorámica
+Efectos fotográficos: Ninguno / Negativo / Escala de grises / Sepia
+Capacidad de la batería de 4.000 mAhTiempo de conversación de la batería: hasta 40 horas (2G) / hasta 20 horas (3G)
+Tiempo en espera de la batería: hasta 1.000 horas
+
+9-Google Nexus 10
+Dimensiones: 263.9 x 177.6 x 8.9 mm
+Peso: 603 g
+Tipo: Super AMOLED touchscreen capacitivo, 16M colores
+Tamaño: 2560 x 1600 pixels, 10.1 pulgadas
+Pantalla Gorilla Glass
+Soporte multitouch
+ Sensor acelerómetro para auto rotación
+Sensor giroscópico de tres ejes
+Barómetro
+16GB/32GB memoria interna, 2GB RAM
+Procesador dual core Exynos 5250 1.7GHz, GPU Mali-T604
+OS: Android OS, v4.2 Jelly Bean
+Mensajería: Email, Push Mail, IM, RSS
+Navegador: HTML5
+Cámara: 5 MP, 2592?1944 pixels, autofocus, flash LED, geo-tagging, video 1080p@30fps, cámara secundaria 1.9MP
+GPS con soporte A-GPS; soporte GLONASS
+Brújula digital
+Wi-Fi 802.11 a/b/g/n, DLNA, Wi-Fi Direct, banda dual
+Bluetooth v3.0 A2DP
+microUSB 2.0
+microHDMI
+NFC
+Integración con redes sociales
+Reproductor de video DivX/MP4/H.264/H.263 
+Reproductor de audio MP3/WAV/eAAC+/WMA/OGG/FLAC
+Organizador
+Visor/editor de documentos
+Integración Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa 
+Memo de voz
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 9000 mAh
+
+10-iPad 4
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 850 / 1900 / 2100
+Dimensiones: 242.8 x 189.7 x 13.4 mm
+Peso: 730 g
+Tipo: IPS TFT con LED de fondo, touchscreen capacitivo, 16M colores
+Tamaño: 768 x 1024 pixels, 9.7 pulgadas
+Superficie oleofóbica resistente a marcas y rayones
+Soporte multi-touch
+Sensor acelerómetro para auto rotación
+8GB/16GB/32GB memoria interna, 256MB RAM
+Procesador Apple A4 1GHz
+OS: iOS 4
+Mensajería: Email, Push Email, IM
+Navegador: HTML (Safari)
+Soporte tarjeta MicroSIM 
+A-GPS
+Brújula digital
+EDGE 
+3G HSDPA / HSUPA
+Wi-Fi 802.11 a/b/g/n
+Bluetooth v2.1 EDR
+USB 2.0
+Reproductor MP4/MP3/WAV/AAC 
+Hasta 10h de reproducción de video
+Lector iBooks, PDF 
+Mapas Google
+Salida TV
+Reproductor de audio y video
+
+
+
+
+

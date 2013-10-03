@@ -1,0 +1,351 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-family: "franklin Gothic Book", "Century Gothic", Calibri;
+}
+
+@media screen and (min-width: 1200px){
+	body {
+		margin-left:0px;
+		margin-right:0px;
+		text-align:center;
+	}
+	#supermain {
+		width: 1100px;
+	}
+	#menuu li a {
+		width: 220px;
+		font-size:28px;
+	}
+	#mages {
+		width: 300px;
+		height:200px;
+	}
+	#mage {
+		width: 500px;
+		height: 350px;
+		cursor:crosshair;
+	}
+	#mage0 {
+		width: 950px;
+		height: 750px;
+		position:relative;
+	}
+	#slid1 {
+		width:450px;
+		height:150px;
+		overflow:hidden;
+	}
+	#lupa {
+		width:270px;
+		height:270px;
+		position:relative;
+		overflow:hidden;
+		-webkit-border-radius:150px;
+		-moz-border-radius:150px;
+	}
+}
+@media screen and (min-width: 960px) and (max-width: 1199px){
+	body {
+		margin-left:00px;
+		margin-right:00px;
+		text-align:center;
+	}
+	#supermain {
+		width: 950px;
+	}
+	#menuu li a {
+		width: 200px;
+		font-size:25px;
+	}
+	#mages {
+		width: 275px;
+		height:190px;
+	}
+	#mage {
+		width: 500px;
+		height: 350px;
+		cursor:crosshair;
+	}
+	#mage0 {
+		width:950px;
+		height: 750px;
+		position:relative;
+	}
+	#slid1 {
+		width:450px;
+		height:150px;
+		overflow:hidden;
+	}
+	#lupa {
+		width:270px;
+		height:270px;
+		position:relative;
+		overflow:hidden;
+		
+	}
+}
+
+@media screen and (min-width: 815px) and (max-width: 959px){
+	body {
+		margin-left:0px;
+		margin-right:0px;
+		text-align:center;
+	}
+	#supermain {
+		width: 805px;
+	}
+	#menuu li a {
+		width: 170px;
+		font-size:22px;
+	}
+	#mages {
+		width: 220px;
+		height:160px;
+	}
+	#mage {
+		width: 430px;
+		height: 370px;
+		cursor:crosshair;
+	}
+	#mage0 {
+		width:750px;
+		height: 550px;
+		position:relative;
+	}
+	#slid1 {
+		width:400px;
+		height:110px;
+		overflow:hidden;
+	}
+	#lupa {
+		width:270px;
+		height:270px;
+		position:relative;
+		overflow:hidden;
+		-webkit-border-radius:150px;
+		-moz-border-radius:150px;
+	}
+}
+
+@media screen and (min-width: 580px) and (max-width: 814px){
+	body {
+		margin-left:0px;
+		margin-right:0px;
+		text-align:center;
+	}
+	#supermain {
+		width: 570px;
+	}
+	#menuu li a {
+		width: 125px;
+		font-size:16px;
+	}
+	#mages {
+		width: 150px;
+		height:100px;
+	}
+	#mage {
+		width: 360px;
+		height: 290px;
+		cursor:crosshair;
+	}
+	#mage0 {
+		width:750px;
+		height: 550px;
+		position:relative;
+	}
+	#slid1 {
+		display:none;
+		width:400px;
+		height:110px;
+		overflow:hidden;
+	}
+	#lupa {
+		display:none;
+		width:270px;
+		height:270px;
+		position:relative;
+		overflow:hidden;
+		-webkit-border-radius:150px;
+		-moz-border-radius:150px;
+	}
+}
+
+header {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	text-align:center;
+	background-image:url(../img/fondo2.jpg);
+	
+}
+body {
+	background-image:url(../img/fondo.jpg);
+}
+
+aside {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	text-align:justify;
+	background-color:#FFF;
+}
+
+section {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	text-align:justify;
+	background-image:url(../img/fondo2.jpg);
+}
+
+footer {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	text-align:center;
+	font-size:13px;
+	color:#999;
+	background-image:url(../img/fondo.jpg);
+}
+
+a #resultado {
+	color: #999;
+	font-size:20px;
+	text-decoration:none;
+}
+
+a:hover #resultado {
+	color:#030;
+}
+
+footer p a {
+	text-decoration: none;
+	color:#999;
+}
+
+footer p a:hover {
+	color:#000;
+}
+
+#menuu li {
+	list-style:none;
+	float:left;
+}
+
+#menuu li a {
+	display:inline-block;
+	border-bottom: 1px #F00 solid;
+	border-top: 1px #f00 solid;
+	text-align:center;
+	padding-bottom:5px;
+	padding-top:5px;
+	background-color:#F69;
+	text-decoration:none;
+	font-family:"Arial";
+	color:#000;
+	z-index:99;
+}
+
+#menuu li a:hover{
+	background-color:#F36;
+	color:#FFF;
+	z-index:99;
+}	
+
+#menuu li ul {
+	display:none;
+	position:absolute;
+	z-index:99;
+}
+
+#menuu li ul li {
+	display:block;
+	float:none;
+	position:relative;
+	padding:0px;
+	z-index:99;
+}
+
+#menuu li:hover ul {
+	display:block;
+	padding-left:0px;
+	z-index:99;
+}
+
+#menuu li ul li a {
+	display:block;
+	z-index:99;
+}
+
+section {
+	border-bottom:1px #CCC solid;
+	border-top:1px #CCC solid;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+#proms{
+	padding: 15px;
+	border:2px #DDD solid;
+}
+
+#proms:hover{
+	border: 1px #777 solid;
+	background-color:#F66;
+}
+
+#title {
+	color:#000;
+	border-top: 1px #DDD solid;
+	border-bottom: 1px #DDD solid;
+	text-align:center;
+	font-weight:bolder;
+	padding: 5px;
+}
+
+#bb {
+	color:#000;
+	border: solid 1px #000000;
+	background-color:#0c0;
+	text-align:center;
+	font-weight:bold;
+	width: 130px;
+	padding-top:5px;
+	height: 30px;
+	font-family:"franklin Gothic Book", "Century Gothic", Calibri;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+}
+
+#bb a{
+	color:#000;
+	text-decoration:none;
+	font-family:"franklin Gothic Book", "Century Gothic", Calibri;
+	
+	
+}
+
+#bb:hover{
+	color:#FFF;
+	width: 130px;
+	height: 30px;
+	background-color:#0f0;
+	background-image:url(obj/button.jpg)
+}
+
+#letras {
+	background-color:#F30;
+}
+
+#indexmejorado {
+	z-index:99;
+}
